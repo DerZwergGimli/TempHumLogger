@@ -36,6 +36,7 @@ Written for ESP32 with OLED Display (onBoard)
    2. edit the file `./src/secrets.h` to match your mongo-db-cluster-config
 4. Flash the Device
 5. Configure WiFi using the AP called: `TempHumMeter`
+6. Device is ready to go and will start writing data to the InfluxDB
 
 ## Dev
 
