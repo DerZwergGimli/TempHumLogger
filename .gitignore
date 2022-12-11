@@ -3,4 +3,7 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.idea
 /src/secrets.h
+/cmake-build-debug/
+/cmake-build-esp32/

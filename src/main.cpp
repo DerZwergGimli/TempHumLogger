@@ -74,7 +74,7 @@ void setup()
   bool res;
   // res = wm.autoConnect(); // auto generated AP name from chipid
   // res = wm.autoConnect("AutoConnectAP"); // anonymous ap
-  res = wm.autoConnect("TempMeter"); // password protected ap
+  res = wm.autoConnect("TempHumMeter"); // password protected ap
   display.setTextSize(1);
   display.clearDisplay();
   display.print("Wifi-Setup...");
