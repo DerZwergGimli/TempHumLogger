@@ -5,7 +5,7 @@ Written for ESP32 with OLED Display (onBoard)
 ---
 
 ## Features
-- Creates AP on first connect (to config WiFi)
+- Creates AP on first connect (to config Wi-Fi)
 - Measures:
   - Temperature
   - Humidity
